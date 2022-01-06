@@ -105,7 +105,7 @@ h1 {
 
 .project_info {
     display: inline-block;
-    width: 100px;
+    width: 105px;
     margin-left: 20px;
 }
 
@@ -126,4 +126,17 @@ h1 {
 .video {
     background: #EBEBEB;
     padding: 100px 0;
+}
+
+.video_player {
+    margin-top: 57px;
+}
+
+.footer {
+    background: #500E0A;
+    padding: 50px 0;
+}
+
+.project_text.margin {
+    margin-top: 20px;
 }
