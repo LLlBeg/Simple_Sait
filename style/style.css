@@ -79,25 +79,6 @@ h1 {
     margin: 0 auto;
 }
 
-.subheader_info {
-    font-family: "Roboto_Medium";
-    font-size: 32px;
-    line-height: 37px;
-    text-align: center;
-    color: #000000;
-    margin-bottom: 50px;
-}
-
-.subheader_text {
-    font-family: "Roboto";
-    font-size: 16px;
-    line-height: 26px;
-    text-align: center;
-    color: #727272;
-    width: 540px;
-    margin: 0 auto;
-}
-
 .project {
     background: #500E0A;
     padding: 100px 0;
@@ -107,20 +88,6 @@ h1 {
     display: inline-block;
     width: 105px;
     margin-left: 20px;
-}
-
-.project_title {
-    font-family: "Roboto_Medium";
-    font-size: 21px;
-    line-height: 25px;
-    color: #FFFFFF;
-}
-
-.project_text {
-    font-family: "Roboto";
-    font-size: 16px;
-    line-height: 26px;
-    color: #FFFFFF;
 }
 
 .video {
@@ -135,8 +102,4 @@ h1 {
 .footer {
     background: #500E0A;
     padding: 50px 0;
-}
-
-.project_text.margin {
-    margin-top: 20px;
 }
